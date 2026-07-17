@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Clínica de Fisioterapia",
+  "description": "Sistema completo para clínicas de fisioterapia com agendamento online, prontuário eletrônico, fluxo de caixa, relatórios de desempenho e portal do paciente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
